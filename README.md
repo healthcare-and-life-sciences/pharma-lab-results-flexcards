@@ -61,7 +61,7 @@ Add Accelerator Objective
 
 1. Follow the download steps presented on the Accelerate HLS website for this Accelerator.
 
-2.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **[https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards]**
+2.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
 
 3. Then, complete the following steps to import them into your Salesforce org.
 
@@ -101,7 +101,7 @@ Add Accelerator Objective
 
 -    **Revision Short Description (Month Day, Year)**
 
--    -    Add
+-    -    Initial
      -    Add
 
 -
