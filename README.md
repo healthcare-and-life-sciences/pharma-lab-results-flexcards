@@ -61,11 +61,11 @@ Add Accelerator Objective
 
 1. Follow the download steps presented on the Accelerate HLS website for this Accelerator.
 
-2.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
+1.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
 
-3. Then, complete the following steps to import them into your Salesforce org.
+1. Then, complete the following steps to import them into your Salesforce org.
 
-4.   1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio DataPacks**' and click on it.
+1.   1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio DataPacks**' and click on it.
      2. Click on '**Installed**' and on the right side click on '**Import from**'.
      3. Select '**From File**' - When the window opens, select the Data Pack file that you downloaded and stored on your machine. Click '**Install**'.
      4. When prompted to Activate the OmniScript, choose **Not Now**.
