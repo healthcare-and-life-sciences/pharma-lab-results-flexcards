@@ -41,7 +41,7 @@ Add Accelerator Objective
 ### **FlexCard (1)**
 
 -    AccessionsNew
-     -- Test_Results_Child3 (child FlexCard)
+     -    Test_Results_Child3 (child FlexCard)
 
 ### **OmniScript (2)**
 
