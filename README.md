@@ -38,15 +38,15 @@ Add Accelerator Objective
 
 ## Package Includes:
 
-### **FlexCard (2)**
+### **FlexCard (1)**
 
 -    AccessionsNew
--    Test_Results_Child3
+     -- Test_Results_Child3 (child FlexCard)
 
 ### **OmniScript (2)**
 
--    Test Information - Agent/DisplayTestInfo/Display Test Info v7
--    Order Retest - Agent/Request_a_Retest/Request a Retest v5
+-    Display Test Info - Agent/DisplayTestInfo/Display Test Info
+-    Request a Retest - Agent/Request_a_Retest/Request a Retest
 
 ---
 
@@ -54,14 +54,14 @@ Add Accelerator Objective
 
 ### Pre-Install Configuration Steps:
 
-1. Add
-2. Add
+1. For this FlexCard, you will need a data source for test results and test information which are not included in this data pack. This source can be from a third-party or a custom object in Salesforce.
+2. Once you have a source, you will need to configure Integration Procedures and/or Data Raptors accordingly and add those to the Omniscripts in place of the "Set Values" step.
 
 #### Install the Data Pack
 
 1. Follow the download steps presented on the Accelerate HLS website for this Accelerator.
 
-2.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **[INSERT REPO LINK]**
+2.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **[https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards]**
 
 3. Then, complete the following steps to import them into your Salesforce org.
 
@@ -72,38 +72,19 @@ Add Accelerator Objective
 
 ### Post-Install Configuration Steps:
 
-1. **[IF YOUR DATAPACK HAS OMNISCRIPTS - INCLUDE THE FOLLOWING STEPS]**
+1. Click on **App Launcher** → Search for “FlexCards”
 
-2. Click on **App Launcher** → Search for “OmniScripts”
-
-3.   1. Navigate to the recently installed OmniScript in the list view
-     2. Click on the dropdown at the right of the OmniScript and select **Activate**.
-     3. For more information regarding activating Omniscripts, please see this article: https://help.salesforce.com/s/articleView?id=sf.os_activating_omniscripts.htm&type=5
-
-4. Add the installed OmniScript to the lightning page layout of your choosing.
-
-5.   1. Refer to this article for more information regarding adding OmniScripts to a Lightning Page: https://help.salesforce.com/s/articleView?id=sf.os_add_a_standard_omniscript_component_to_a_lighting_page_20263.htm&type=5
-     2. Refer to this article for more information regarding adding OmniScripts to an Experience Cloud Page: https://help.salesforce.com/s/articleView?id=sf.os_add_a_standard_omniscript_component_to_an_experience_page_20341.htm&type=5
-
-6. **[IF YOUR DATAPACK HAS FLEXCARDS - INCLUDE THE FOLLOWING STEPS]**
-
-7. Click on **App Launcher** → Search for “FlexCards”
-
-8.   1. Navigate to the recently installed FlexCard in the list view
+2.   1. Navigate to the recently installed FlexCard in the list view
      2. Open the FlexCard
      3. Click **Activate** and select the appropriate Publish Options
      4. For more information regarding activating FlexCards, please see this article: https://help.salesforce.com/s/articleView?id=sf.os_activateconfigureand_publish_flexcards_24744.htm&type=5
 
-9. Add the installed FlexCard to the lightning page layout of your choosing.
+3. Add the installed FlexCard to the lightning page layout of your choosing.
 
-10.  1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
+4.   1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
 
      2.   1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
           2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
-
-11. Add
-
-12. Add
 
 ---
 
