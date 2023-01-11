@@ -61,11 +61,11 @@ Add Accelerator Objective
 
 1. Follow the download steps presented on the Accelerate HLS website for this Accelerator.
 
-1.   1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
+     1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
 
 1. Then, complete the following steps to import them into your Salesforce org.
 
-1.   1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio DataPacks**' and click on it.
+     1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio DataPacks**' and click on it.
      2. Click on '**Installed**' and on the right side click on '**Import from**'.
      3. Select '**From File**' - When the window opens, select the Data Pack file that you downloaded and stored on your machine. Click '**Install**'.
      4. When prompted to Activate the OmniScript, choose **Not Now**.
@@ -74,17 +74,17 @@ Add Accelerator Objective
 
 1. Click on **App Launcher** → Search for “FlexCards”
 
-2.   1. Navigate to the recently installed FlexCard in the list view
+     1. Navigate to the recently installed FlexCard in the list view
      2. Open the FlexCard
      3. Click **Activate** and select the appropriate Publish Options
      4. For more information regarding activating FlexCards, please see this article: https://help.salesforce.com/s/articleView?id=sf.os_activateconfigureand_publish_flexcards_24744.htm&type=5
 
-3. Add the installed FlexCard to the lightning page layout of your choosing.
+1. Add the installed FlexCard to the lightning page layout of your choosing.
 
-4.   1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
+1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
 
-     2.   1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
-          2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
+     1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
+     2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
 
 ---
 
