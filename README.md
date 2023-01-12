@@ -12,15 +12,11 @@ This FlexCard enables the user to see lab results at a glance. In addition, the 
 
 ## Business Objective
 
-Add Accelerator Objective
+This Omnistudio asset provides the ability to expose lab data, which is often stored outside of Salesforce in a LIMS system or medical record repository, into a Case record page so that information can be shared with a patient or provider without the agent having to pivot to another application. In addition, it allows the agent to view multiple levels of information (such as Accession, Result, and Test-related details) in a single view.
 
 ## Business Value and Benefits
 
--    Add
--    Add
-
--    Add
--    Add
+-    Increases patient and provider satisfaction by decreasing Case time to resolution
 
 ---
 
@@ -28,11 +24,11 @@ Add Accelerator Objective
 
 ### Primary Industry:
 
--    Healthcare
+-    Provider
 
 ### Primary User Persona:
 
--    Healthcare Professional
+-    Contact Center Agent
 
 ---
 
