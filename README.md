@@ -16,6 +16,7 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 
 ## Business Value and Benefits
 
+-    Contributes to the Patient 360 view in the Case Object which increases Agent efficiency
 -    Increases patient and provider satisfaction by decreasing Case time to resolution
 
 ---
