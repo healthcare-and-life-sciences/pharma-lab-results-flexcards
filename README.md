@@ -54,8 +54,8 @@ Add Accelerator Objective
 
 ### Pre-Install Configuration Steps:
 
-1. For this FlexCard, you will need a data source for test results and test information which are not included in this data pack. This source can be from a third-party or a custom object in Salesforce.
-2. Once you have a source, you will need to configure Integration Procedures and/or Data Raptors accordingly and add those to the Omniscripts in place of the "Set Values" step.
+1. For this FlexCard, you will need a data source for test results and test information which are not included in this data pack. This source can be from a third-party or a custom object in Salesforce. For demo purposes, this data pack includes static test data in the FlexCards and Omniscripts.
+2. Once you have a source, you will need to configure Integration Procedures and/or Data Raptors accordingly and add those to the FlexCards and Omniscripts and remove the static data.
 
 #### Install the Data Pack
 
@@ -101,7 +101,4 @@ Add Accelerator Objective
 
 -    **Revision Short Description (Month Day, Year)**
 
--    -    Initial
-     -    Add
-
--
+     -    Initial (January 12, 2023)
