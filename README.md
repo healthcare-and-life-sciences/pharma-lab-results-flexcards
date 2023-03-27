@@ -88,9 +88,9 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 
 ## Assumptions
 
-1. A customer has licenses for Health Cloud, and the HINS Managed Package with OmniStudio. These solutions have all been installed and are functional.
+1. A customer has licenses for Health Cloud, and either the HINS Managed Package installed, or with OmniStudio activated in Health Cloud. These solutions have been installed and are functional.
 2. A customer is assuming Salesforce Lightning Experience — not Classic.
-3. Data Model elements that are part of the HINS (Vlocity) Managed package and Health Cloud are all available.
+3. Data Model elements that are part of the HINS (Vlocity) Managed package or OmniStudio with Health Cloud are all available.
 4. The Accelerator uses the Lightning Design System standards and look. Customers may want to apply their own branding which can be achieved.
 5. This tool is intended to provide capabilities for Customers to configure, customize, and optimize use of their implemented Salesforce Services, including potential integration with external data sources. Customers: (i) are solely responsible for their implementation and use of this tool; (ii) accept the tool as-is and without any warranties, in accordance with the governing Salesforce Developer Program Terms; and (iii) must ensure that their use of this tool meets their own use case needs and compliance requirements (including any applicable healthcare or privacy laws, rules, and regulations)
 
