@@ -26,6 +26,7 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 ### Primary Industry:
 
 -    Provider
+-    Pharma
 
 ### Primary User Persona:
 
