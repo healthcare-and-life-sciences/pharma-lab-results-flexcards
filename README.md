@@ -35,15 +35,16 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 
 ## Package Includes:
 
-### **FlexCard (1)**
+### **FlexCards (2)**
 
--    AccessionsNew
+-    AccessionsNewCore
      -    Test_Results_Child3 (child FlexCard)
 
-### **OmniScript (2)**
+### **OmniScripts (2)**
 
--    Display Test Info - Agent/DisplayTestInfo/Display Test Info
--    Request a Retest - Agent/Request_a_Retest/Request a Retest
+-    Omni Processes Multipack
+     -    Display Test Info - Agent/DisplayTestInfo/Display Test Info
+     -    Request a Retest - Agent/RequestARetest/Request a Retest
 
 ---
 
