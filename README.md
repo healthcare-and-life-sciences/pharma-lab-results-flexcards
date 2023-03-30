@@ -82,8 +82,8 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 
 1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
 
-     1. https://docs.vlocity.com/en/Add-a-FlexCard-to-a-Lightning-Page.html
-     2. https://docs.vlocity.com/en/Add-a-FlexCard-to-an-Experience-Page.html
+     1. https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_a_lightning_page.htm&type=5
+     2. https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_an_experience_page.htm&type=5
 
 ---
 
@@ -102,3 +102,4 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 -    **Revision Short Description (Month Day, Year)**
 
      -    Initial (January 12, 2023)
+     -    Update FlexCards and Omniscripts to use Core OmniStudio (March 30, 2023)
