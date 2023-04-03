@@ -55,14 +55,13 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 
 1. For this FlexCard, you will need a data source for test results and test information which are not included in this data pack. This source can be from a third-party or a custom object in Salesforce. For demo purposes, this data pack includes static test data in the FlexCards and Omniscripts.
 2. Once you have a source, you will need to configure Integration Procedures and/or Data Raptors accordingly and add those to the FlexCards and Omniscripts and remove the static data.
+3. For more information about Integration Procedures, refer to this Trailhead: https://trailhead.salesforce.com/content/learn/modules/omnistudio-integration-procedures
 
 #### Install the Data Pack
 
-1. Follow the download steps presented on the Accelerate HLS website for this Accelerator.
+1. Follow the download steps presented on the HLS Accelerators website for this Accelerator. This will install a copy of the following GitHub repository on your machine: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
 
-     1. Alternatively, you may download the Data Pack folder in the following GitHub repository: **https://github.com/healthcare-and-life-sciences/pharma-lab-results-flexcards**
-
-1. Then, complete the following steps to import them into your Salesforce org.
+2. Then, complete the following steps to import them into your Salesforce org.
 
      1. To Import, in your destination Salesforce org, Click on **App Launcher** → Search for '**OmniStudio DataPacks**' and click on it.
      2. Click on '**Installed**' and on the right side click on '**Import from**'.
@@ -78,9 +77,9 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
      3. Click **Activate** and select the appropriate Publish Options
      4. For more information regarding activating FlexCards, please see this article: https://help.salesforce.com/s/articleView?id=sf.os_activateconfigureand_publish_flexcards_24744.htm&type=5
 
-1. Add the installed FlexCard to the lightning page layout of your choosing.
+2. Add the installed FlexCard to the lightning page layout of your choosing.
 
-1. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
+3. Refer to the following articles for more information regarding adding FlexCards to a Lightning or Experience page:
 
      1. https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_a_lightning_page.htm&type=5
      2. https://help.salesforce.com/s/articleView?id=sf.os_add_a_flexcard_to_an_experience_page.htm&type=5
@@ -103,3 +102,4 @@ This Omnistudio asset provides the ability to expose lab data, which is often st
 
      -    Initial (January 12, 2023)
      -    Update FlexCards and Omniscripts to use Core OmniStudio (March 30, 2023)
+     -    Updated installation steps (April 3, 2023)
